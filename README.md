@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manluhidan
+- 👋 Hi
 - 👀 I’m currently interested in Web development
 - 🌱 I’m currently learning Node.js, React
 
